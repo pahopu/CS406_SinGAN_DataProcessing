@@ -9,7 +9,7 @@
 
 <h1 align="center"><b>XỬ LÝ ẢNH VÀ ỨNG DỤNG<br>(DATA PROCESSING AND APPLICATION)</b></h>
 
-[![Status](https://img.shields.io/badge/status-done-blue?style=flat-square)](https://github.com/pahopu/CS406_SinGAN_DataProcessing)
+[![Status](https://img.shields.io/badge/status-working-green?style=flat-square)](https://github.com/pahopu/CS406_SinGAN_DataProcessing)
 [![GitHub contributors](https://img.shields.io/github/contributors/pahopu/CS406_SinGAN_DataProcessing?style=flat-square)](https://github.com/pahopu/CS406_SinGAN_DataProcessing/graphs/contributors)
 [![Status](https://img.shields.io/badge/language-python-blue?style=flat-square)](https://github.com/pahopu/CS406_SinGAN_DataProcessing)
 
